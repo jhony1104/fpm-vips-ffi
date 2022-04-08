@@ -1,0 +1,12 @@
+{
+    "name": "jhony1104/vips-ffi",
+    "authors": [
+        {
+            "name": "Johannes Buchholz",
+            "email": "buchholz@intermetrics.de"
+        }
+    ],
+    "require": {
+        "jcupitt/vips": "^2.0"
+    }
+}
